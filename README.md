@@ -1,4 +1,4 @@
 # InshortsClone
 This is a clone of Inshorts news app.
 
-![Screenshot (58)](https://user-images.githubusercontent.com/59633464/158439351-50d1b230-a04f-481d-8542-7dbbab10c0bd.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/59633464/158439872-dcf54eb7-87e9-438a-91c4-aaeef248749d.png)
